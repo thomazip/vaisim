@@ -1,0 +1,40 @@
+h2 {
+  font-size: 200%;
+  text-align: center;
+  color: rgb(80, 5, 255);
+  font-family: sans-serif;
+}
+.imagem1 {
+  margin: auto;
+  width: 200px;
+}
+#conteudo {
+  background: url(./img/gradiente.jpg);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.btn-nao {
+  font-size: 110%;
+  background: rgb(119, 0, 0);
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 80px;
+  border-radius: 15px;
+}
+
+.btn-sim {
+  font-size: 110%;
+  background: green;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 80px;
+  border-radius: 15px;
+}
